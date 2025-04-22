@@ -1,4 +1,4 @@
-## olá pessoal, me chamo Daniela Wegner da Silva 👋
+## Olá pessoal, me chamo Daniela Wegner da Silva 👋
 
 <!--
 **danielawegner59/danielawegner59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
